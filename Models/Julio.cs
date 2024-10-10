@@ -2,6 +2,6 @@
 {
     public class Julio
     {
-        public int JulioId { get; set; }
+        public int IdJulio { get; set; }
     }
 }
